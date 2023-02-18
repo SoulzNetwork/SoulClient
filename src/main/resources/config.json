@@ -1,0 +1,16 @@
+{
+  "server": {
+    "port": 25576,
+    "host": "localhost",
+    "sub-directory": "/discord/logging/"
+  },
+  "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx",
+  "serverName": "SERVER_NAME",
+  "clientName": "CLIENT_NAME",
+  "clientVersion": "1.0.0",
+  "hash": {
+    "salt": "SALT",
+    "delimiter": "DELIMITER"
+  },
+  "color": "#ffffff"
+}

@@ -1,0 +1,8 @@
+name: SoulClient
+version: '${project.version}'
+main: org.soulnetwork.SoulClient
+api-version: 1.19
+authors: [ Wyvern ]
+permissions:
+  soulclient.admin:
+    default: op
